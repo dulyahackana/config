@@ -1,10 +1,11 @@
 *.swp
 *~
-.*
+
 *.pyc
 *.pyo
-
+._*
 *.ko
 *.o
 *.so
+*.DS_Store
 
