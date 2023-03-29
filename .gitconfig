@@ -1,7 +1,7 @@
 
 [user]
-	name = ryabinin
-	email = ryabinin@yandex-team.ru
+	name = dh
+	email = killerslopatoy@gmail.com
 
 [color]
     ui = auto
@@ -28,7 +28,5 @@
     lol = log --graph --decorate --pretty=oneline --abbrev-commit
     lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
     ls = ls-files
-
-    # Show files ignored by git:
     ign = ls-files -o -i --exclude-standard
 
